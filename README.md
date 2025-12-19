@@ -127,9 +127,9 @@ http://localhost:5173
 | DELETE | /api/tasks/delete/:id   | Delete task            |
 
 
-# 🤝 Contributors
+# 🤝 Contributor
 
-* Shreelakshmi DS (Developer)
+* Shreelakshmi DS
 
 # 🏆 Future Improvements
 
@@ -140,3 +140,4 @@ http://localhost:5173
 * Drag-and-drop task sorting
 * Deploy backend (Render/Railway)
 * Deploy frontend (Vercel)
+
