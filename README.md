@@ -1,5 +1,5 @@
 
-# 📌 Task Manager — MERN Stack (React + Node.js + Express + MongoDB)
+# 📌 Task Manager — MERN Stack (React  + Tailwind + Node.js + Express + MongoDB)
 
 A full-stack Task Management System where users can:
 
@@ -140,4 +140,5 @@ http://localhost:5173
 * Drag-and-drop task sorting
 * Deploy backend (Render/Railway)
 * Deploy frontend (Vercel)
+
 
